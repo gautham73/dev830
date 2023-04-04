@@ -1,0 +1,6 @@
+
+---
+hostname: ubunut
+file : pull tomcat 
+path: var/lib/tomcat/webapps
+
